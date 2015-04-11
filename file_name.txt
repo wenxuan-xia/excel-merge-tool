@@ -1,0 +1,6 @@
+D:\my_git\excel-merge-tool\test1.xlsx
+Sheet1
+1
+D:\my_git\excel-merge-tool\test2.xlsx
+Sheet1
+1
